@@ -1,10 +1,10 @@
-#React + RxJS: going fully reactive
+# React + RxJS: going fully reactive
 
-###React is _not_ reactive
+### React is _not_ reactive
 
 Nowadays React is getting more and more popular. However, despite the name, it is **not** fully reactive solution. As Andre Staltz says - [only rendering is reacitve in React](http://staltz.com/dont-react/#/12). But can we change that? Can we make a react components _more_ reactive?
 
-###Going reactive in the component
+### Going reactive in the component
 
 Imagine a simple counter written in plain, old React:
 ```js
